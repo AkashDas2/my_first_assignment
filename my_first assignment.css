@@ -1,0 +1,50 @@
+.background_imag1 {
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+
+}
+
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.text1 {
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    font-size: 1.5em;
+    color: white;
+
+}
+
+.donate_button {
+    background-color: orange;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+.text2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+hr {
+    width: 50%;
+}
+
+.tk500 {
+    background-color: bisque;
+    padding: 20px;
+    border: 2px rgb(228, 155, 66) solid;
+
+}
+
+.otheramount {
+    background-color: white;
+    padding: 20px;
+}
+
+h3 {
+    margin-top: 50px;
+}
