@@ -45,6 +45,10 @@ hr {
     padding: 20px;
 }
 
+.othertext {
+    margin-top: 50px;
+}
+
 h3 {
     margin-top: 50px;
 }
@@ -85,12 +89,14 @@ h3 {
 }
 
 .div4 {
+    margin-top: 40px;
     margin-right: 100px;
     size: 100px;
 }
 
 .div5 {
     margin-left: 100px;
+    margin-top: 0px;
 }
 
 .how-to-contribute {
@@ -103,6 +109,10 @@ h3 {
 
 .text5 {
     text-align: center;
+}
+
+.get {
+    font-size: 3em;
 }
 
 .text6 {
@@ -123,4 +133,20 @@ h3 {
     background-color: orange;
     padding: 10px 50px 10px 0px;
 
+}
+
+.text7 {
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.be {
+    color: orange;
+    font-family: 'Satisfy', cursive;
+}
+
+.im {
+    color: white;
 }
