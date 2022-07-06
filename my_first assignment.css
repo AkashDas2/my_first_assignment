@@ -69,6 +69,7 @@ h3 {
     background-color: rgb(211, 235, 235);
     padding: 100px 20px 20px 20px;
     margin-left: 100px;
+
 }
 
 .div2 {
@@ -149,4 +150,8 @@ h3 {
 
 .im {
     color: white;
+}
+
+.textnew {
+    font-display: rgb(208, 163, 163);
 }
